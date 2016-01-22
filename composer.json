@@ -1,6 +1,6 @@
 {
     "name": "vitalosh/yii2-swiftmailer",
-    "description": "Advanced class yii\swiftmailer\Mailer with support queue",
+    "description": "Advanced component 'mailer' to support queue",
     "type": "yii2-extension",
     "keywords": ["yii2", "swift", "swiftmailer", "mail", "email", "mailer", "queue", "spool"],
     "license": "MIT",

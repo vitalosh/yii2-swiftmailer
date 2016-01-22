@@ -1,6 +1,6 @@
 yii2-swiftmailer
 ======================
-Advanced class yii\swiftmailer\Mailer with support queue
+Advanced component 'mailer' to support queue
 
 Installation
 ------------
@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist vitalosh/yii2-swiftmailer "*"
+php composer.phar require vitalosh/yii2-swiftmailer "dev-master"
 ```
 
 or add
 
 ```
-"vitalosh/yii2-swiftmailer": "*"
+"vitalosh/yii2-swiftmailer": "dev-master"
 ```
 
 to the require section of your `composer.json` file.
